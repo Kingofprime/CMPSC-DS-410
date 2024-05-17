@@ -1,0 +1,21 @@
+To open Cluster
+
+[ apg5667@e5-cse-trantor01.cse.psu.edu]
+
+To create a directory [ mkdir file_name ]
+To delete a directory [ rm -r file_name ]
+
+Python Commands
+
+To check code compiles [ pylint -E name_of_file.py ]
+To run code on test data [ python3 name_of_file.py data_file > output.txt ]
+To run the code on HDFS [ source file_name ]
+
+Spark-Shell Commands
+
+To open Spark with a specific port [ spark-shell --conf spark.ui.port=4072 ]
+
+To load a file [ :load file_name ]
+To quit spark [ :quit ]
+To run main function in file [ Q1.main(Array("1")) ]
+To run test function for rdd [ Q1.runTest(sc) ]

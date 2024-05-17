@@ -1,0 +1,21 @@
+Step 1 : use the updatestarter command to get assignment files
+Step 2 : create a directory in HDFS named myhdfslab
+	Command : hdfs dfs -mkdir /user/apg5667/myhdfslab
+Step 3 : upload the files part-00000 to part-00003 to myhdfslab
+	Command : hdfs dfs -put part-00000 /user/apg5667/myhdfslab
+	Command : hdfs dfs -put part-00001 /user/apg5667/myhdfslab
+	Command : hdfs dfs -put part-00002 /user/apg5667/myhdfslab
+	Command : hdfs dfs -put part-00003 /user/apg5667/myhdfslab
+Step 4 : move the files to a new HDFS directory mywords
+	Command : hdfs dfs -mkdir /user/apg5667/mywords
+	Command : hdfs dfs -mv /user/apg5667/myhdfslab/part-00000 /user/apg5667/mywords
+	Command : hdfs dfs -mv /user/apg5667/myhdfslab/part-00001 /user/apg5667/mywords
+	Command : hdfs dfs -mv /user/apg5667/myhdfslab/part-00002 /user/apg5667/mywords
+	Command : hdfs dfs -mv /user/apg5667/myhdfslab/part-00003 /user/apg5667/mywords
+Step 5 : delete the myhdfslab directory
+	Command : hdfs dfs -rmdir /user/apg5667/myhdfslab
+Step 6 : Display last 1 kb of part-00002 file
+	Command : hdfs dfs -tail /user/apg5667/mywords/part-00002
+Step 7 : Display Information about part-00001 file
+	Command : hdfs dfs -ls /user/apg5667/mywords/part-00001
+	Command : hdfs dfs -stat /user/apg5667/mywords/part-00001

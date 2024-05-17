@@ -1,0 +1,594 @@
+state_id	state_name	county_name	population	zips	id
+Birmingham	AL	Alabama	Jefferson	782111	35218 35214 35215 35217 35210 35211 35212 35213 35224 35221 35222 35203 35207 35206 35205 35204 35209 35208 35094 35254 35068 35061 35228 35234 35235 35233 35243 35242 35249 35201 35202 35220 35232 35237 35238 35246 35255 35259 35261 35270 35282 35283 35285 35287 35290 35291 35292 35294 35295 35298	1840006507
+Huntsville	AL	Alabama	Madison	349482	35801 35803 35802 35805 35806 35741 35824 35763 35757 35756 35810 35811 35816 35896 35742 35762 35804 35807 35809 35814 35815 35893 35894 35895 35897 35899	1840005061
+Mobile	AL	Alabama	Mobile	320855	36652 36606 36607 36604 36605 36602 36603 36608 36609 36688 36582 36615 36617 36611 36610 36619 36618 36695 36693 36601 36616 36628 36633 36640 36641 36644 36660 36670 36675 36689 36691	1840006009
+Montgomery	AL	Alabama	Montgomery	251158	36112 36113 36110 36111 36116 36114 36115 36109 36130 36117 36101 36105 36104 36107 36106 36057 36108 36118 36120 36121 36123 36124 36125 36131 36132 36135 36140 36141 36142 36177 36191	1840008353
+Tuscaloosa	AL	Alabama	Tuscaloosa	164414	35475 35476 35405 35404 35406 35401 35487 35403 35407 35486	1840005563
+Auburn	AL	Alabama	Lee	105386	36849 36832 36830 36831	1840013810
+Hoover	AL	Alabama	Jefferson	91995	35216 35226 35244 35242 35236 35260	1840014795
+Florence	AL	Alabama	Lauderdale	81268	35632 35633 35630 35631	1840002083
+Anniston	AL	Alabama	Calhoun	79717	36201 36206 36207 36205 36204	1840006563
+Dothan	AL	Alabama	Houston	73037	36303 36301 36305 36321 36302 36304	1840001518
+Decatur	AL	Alabama	Morgan	57525	35603 35601 35602 35609	1840001403
+Madison	AL	Alabama	Madison	56967	35756 35758	1840015524
+Vestavia Hills	AL	Alabama	Jefferson	38600	35216 35243 35242 35266 35288 35296	1840015673
+Phenix City	AL	Alabama	Russell	38413	36869 36867 36868	1840006012
+Prattville	AL	Alabama	Autauga	38124	36066 36067 36068	1840004086
+Gadsden	AL	Alabama	Etowah	33881	35901 35903 35904 35902	1840006332
+Alabaster	AL	Alabama	Shelby	33417	35114 35007 35144	1840013756
+Opelika	AL	Alabama	Lee	31361	36801 36804 36803	1840005210
+Northport	AL	Alabama	Tuscaloosa	30714	35473 35475 35476 35452	1840014819
+Enterprise	AL	Alabama	Coffee	28513	36330 36331	1840001548
+Daphne	AL	Alabama	Baldwin	27861	36527 36526	1840006178
+Homewood	AL	Alabama	Jefferson	27557	35229 35209 35219 35293	1840014794
+Athens	AL	Alabama	Limestone	26179	35611 35613 35612	1840000935
+Bessemer	AL	Alabama	Jefferson	25890	35022 35020	1840013732
+Trussville	AL	Alabama	Jefferson	25621	35235 35173	1840015672
+Pelham	AL	Alabama	Shelby	24221	35124	1840014826
+Fairhope	AL	Alabama	Baldwin	22605	36532 36559	1840002039
+Albertville	AL	Alabama	Marshall	22433	35951 35950	1840013599
+Mountain Brook	AL	Alabama	Jefferson	22259	35213 35223 35243 35253 35297	1840014792
+Oxford	AL	Alabama	Calhoun	22019	36260 36203 36253	1840014780
+Foley	AL	Alabama	Baldwin	21113	36535 36580 36536	1840002084
+Helena	AL	Alabama	Shelby	21036	35022 35080	1840014827
+Prichard	AL	Alabama	Mobile	19353	36663 36610 36613 36612	1840014990
+Cullman	AL	Alabama	Cullman	18434	35058 35057 35055 35056	1840001354
+Tillmans Corner	AL	Alabama	Mobile	18018	36582 36619	1840013896
+Selma	AL	Alabama	Dallas	17875	36703 36701 36702	1840008329
+Troy	AL	Alabama	Pike	17757	36079 36081 36082	1840005558
+Hueytown	AL	Alabama	Jefferson	16655	35023	1840014796
+Calera	AL	Alabama	Shelby	16644	35040	1840013757
+Millbrook	AL	Alabama	Elmore	16631	36054 36022	1840014877
+Muscle Shoals	AL	Alabama	Colbert	16334	35674 35661 35662	1840014657
+Center Point	AL	Alabama	Jefferson	16279	35215	1840014789
+Saraland	AL	Alabama	Mobile	16109	36571	1840015886
+Gardendale	AL	Alabama	Jefferson	16051	35071 35119	1840002820
+Scottsboro	AL	Alabama	Jackson	15543	35768 35769	1840005605
+Hartselle	AL	Alabama	Morgan	15414	35640	1840013593
+Chelsea	AL	Alabama	Shelby	15201	35051 35043	1840014823
+Gulf Shores	AL	Alabama	Baldwin	15178	36542 36547	1840013886
+Talladega	AL	Alabama	Talladega	15071	35160 35161	1840008244
+Fort Payne	AL	Alabama	DeKalb	14815	35967 35968	1840004822
+Alexander City	AL	Alabama	Tallapoosa	14788	35010 35011	1840013788
+McCalla	AL	Alabama	Jefferson	14509	35022 35111	1840041400
+Jasper	AL	Alabama	Walker	14453	35503 35504 35501 35502	1840003778
+Ozark	AL	Alabama	Dale	14373	36360 36361	1840005283
+Jacksonville	AL	Alabama	Calhoun	14227	36265	1840007433
+Irondale	AL	Alabama	Jefferson	13455	35210 35015	1840014797
+Moody	AL	Alabama	St. Clair	13235	35094 35173 35004 35120	1840014770
+Pell City	AL	Alabama	St. Clair	13148	35125 35128	1840014771
+Eufaula	AL	Alabama	Barbour	12746	36027 36072	1840001685
+Sylacauga	AL	Alabama	Talladega	12465	35151 35150	1840015700
+Leeds	AL	Alabama	Jefferson	12292	35094 35173	1840005106
+Russellville	AL	Alabama	Franklin	10767	35654 35653	1840004247
+Saks	AL	Alabama	Calhoun	10523	36201 36206 36202	1840013708
+Valley	AL	Alabama	Chambers	10442	36854 36872	1840015760
+Clay	AL	Alabama	Jefferson	10315	35173 35126	1840014790
+Boaz	AL	Alabama	Marshall	10248	35957 35956	1840013602
+Rainbow City	AL	Alabama	Etowah	10184	35906	1840014732
+Spanish Fort	AL	Alabama	Baldwin	10083	36507 36527 36577	1840015879
+Fairfield	AL	Alabama	Jefferson	9975	35064	1840001883
+Fultondale	AL	Alabama	Jefferson	9756	35217 35119 35068	1840002481
+Pike Road	AL	Alabama	Montgomery	9651	36064 36013	1840017000
+Pleasant Grove	AL	Alabama	Jefferson	9549	35127	1840014793
+Meridianville	AL	Alabama	Madison	9528	35750 35759 35773	1840013546
+Southside	AL	Alabama	Etowah	9358	35907	1840015604
+Meadowbrook	AL	Alabama	Shelby	9338	35242	1840027633
+Sheffield	AL	Alabama	Colbert	9330	35660	1840015537
+Tuskegee	AL	Alabama	Macon	9173	36083 36088 36087	1840004337
+Forestdale	AL	Alabama	Jefferson	9138	35214 35005 35231	1840013723
+Tuscumbia	AL	Alabama	Colbert	9029	35674	1840005567
+Andalusia	AL	Alabama	Covington	8841	36420 36421	1840004591
+Clanton	AL	Alabama	Chilton	8776	35045 35046	1840006157
+Guntersville	AL	Alabama	Marshall	8644	35976	1840006456
+Arab	AL	Alabama	Marshall	8552	35016	1840013600
+Atmore	AL	Alabama	Escambia	8465	36503 36502 36504	1840013888
+Bay Minette	AL	Alabama	Baldwin	8159	36507	1840000959
+Orange Beach	AL	Alabama	Baldwin	8048	36561 36530	1840014980
+Brook Highland	AL	Alabama	Shelby	8008	35242	1840027551
+Greenville	AL	Alabama	Butler	7326	36037	1840003498
+Montevallo	AL	Alabama	Shelby	7288	35115	1840014825
+Pinson	AL	Alabama	Jefferson	7209	35215 35126 35123	1840022941
+Wetumpka	AL	Alabama	Elmore	7129	36093 36092	1840006013
+Demopolis	AL	Alabama	Marengo	7080	36732 36742	1840014897
+Lincoln	AL	Alabama	Talladega	6968	35160 35096	1840015698
+Oneonta	AL	Alabama	Blount	6925	35121	1840005206
+Hamilton	AL	Alabama	Marion	6880	35570	1840003629
+Lanett	AL	Alabama	Chambers	6880	36863	1840014858
+Robertsdale	AL	Alabama	Baldwin	6793	36567	1840014981
+Opp	AL	Alabama	Covington	6741	36467	1840014960
+Satsuma	AL	Alabama	Mobile	6740	36572	1840015887
+Chickasaw	AL	Alabama	Mobile	6398	36611 36671	1840014986
+Harvest	AL	Alabama	Madison	6328	35749	1840013544
+Tarrant	AL	Alabama	Jefferson	6077	35217	1840015671
+Moores Mill	AL	Alabama	Madison	6007	35759 35810 35811	1840013547
+Monroeville	AL	Alabama	Monroe	5917	36460 36461	1840005191
+Attalla	AL	Alabama	Etowah	5849	35954	1840013655
+Grayson Valley	AL	Alabama	Jefferson	5696	35235	1840027631
+Highland Lakes	AL	Alabama	Shelby	5628	35242	1840075149
+Rainsville	AL	Alabama	DeKalb	5545	35986	1840014658
+Smiths Station	AL	Alabama	Lee	5441	36877	1840015792
+Fort Rucker	AL	Alabama	Dale	5422	36362	1840073838
+Roanoke	AL	Alabama	Randolph	5346	36274	1840014834
+Glencoe	AL	Alabama	Etowah	5343	35903 35905	1840003257
+Margaret	AL	Alabama	St. Clair	5294	35112 35120	1840016772
+Brewton	AL	Alabama	Escambia	5257	36426 36427	1840006146
+Tallassee	AL	Alabama	Elmore	5174	36078	1840015790
+Midfield	AL	Alabama	Jefferson	5159	35221 35228	1840014791
+Semmes	AL	Alabama	Mobile	5123	36613 36575	1840027491
+Theodore	AL	Alabama	Mobile	5123	36582 36590	1840013895
+Headland	AL	Alabama	Henry	5027	36345	1840014949
+Holtville	AL	Alabama	Elmore	4986	36092 36022	1840023043
+Redland	AL	Alabama	Elmore	4960	36093	1840037844
+Daleville	AL	Alabama	Dale	4901	36322	1840014955
+Odenville	AL	Alabama	St. Clair	4873	35146 35120	1840016774
+Winfield	AL	Alabama	Marion	4832	35594	1840015587
+Springville	AL	Alabama	St. Clair	4824	35146	1840015642
+Piedmont	AL	Alabama	Calhoun	4761	36272	1840014781
+Childersburg	AL	Alabama	Talladega	4743	35044	1840014813
+Jackson	AL	Alabama	Clarke	4719	36545	1840014935
+Columbiana	AL	Alabama	Shelby	4552	35051	1840006158
+Hokes Bluff	AL	Alabama	Etowah	4449	35903 35905	1840014733
+Argo	AL	Alabama	St. Clair	4416	35173 35120	1840015668
+Haleyville	AL	Alabama	Winston	4339	35565	1840013644
+Adamsville	AL	Alabama	Jefferson	4325	35224 35060 35073 35005	1840013724
+Fayette	AL	Alabama	Fayette	4266	35555	1840006295
+Geneva	AL	Alabama	Geneva	4235	36340	1840003161
+Mount Olive	AL	Alabama	Jefferson	4224	35117	1840013727
+Valley Grande	AL	Alabama	Dallas	4147	36703 36701	1840015794
+Kimberly	AL	Alabama	Jefferson	4045	35071 35091 35116	1840016799
+Ladonia	AL	Alabama	Russell	4025	36870 36869	1840013828
+Hazel Green	AL	Alabama	Madison	3971	35761 35750	1840013545
+Citronelle	AL	Alabama	Mobile	3930	36522	1840014987
+Pine Level	AL	Alabama	Autauga	3881	36066 36067 36022	1840023046
+Loxley	AL	Alabama	Baldwin	3757	36551 36578	1840017123
+Alexandria	AL	Alabama	Calhoun	3748	36265 36250	1840013707
+Holt	AL	Alabama	Tuscaloosa	3665	35404	1840013753
+Thomasville	AL	Alabama	Clarke	3656	36784	1840015849
+Lake View	AL	Alabama	Tuscaloosa	3611	35111	1840016839
+Centre	AL	Alabama	Cherokee	3609	35960	1840001099
+Grand Bay	AL	Alabama	Mobile	3607	36541	1840013894
+Emerald Mountain	AL	Alabama	Elmore	3569	36093 36078	1840037820
+Priceville	AL	Alabama	Morgan	3561	35603	1840017927
+Evergreen	AL	Alabama	Conecuh	3497	36401	1840001842
+Elba	AL	Alabama	Coffee	3463	36323	1840001532
+Heflin	AL	Alabama	Cleburne	3440	36264	1840007380
+Moulton	AL	Alabama	Lawrence	3392	35650	1840008190
+Union Springs	AL	Alabama	Bullock	3341	36089	1840004415
+West End-Cobb Town	AL	Alabama	Calhoun	3322	36201	1840073855
+Weaver	AL	Alabama	Calhoun	3312	36277	1840015646
+Livingston	AL	Alabama	Sumter	3297	35470	1840005153
+Hanceville	AL	Alabama	Cullman	3216	35077	1840013642
+East Brewton	AL	Alabama	Escambia	3215	36426	1840013889
+Cottondale	AL	Alabama	Tuscaloosa	3211	35404 35453	1840023723
+Red Bay	AL	Alabama	Franklin	3210	35582	1840014682
+Warrior	AL	Alabama	Jefferson	3206	35180	1840015674
+Moundville	AL	Alabama	Hale	3173	35474	1840016942
+Marion	AL	Alabama	Perry	3128	36756	1840008188
+Triana	AL	Alabama	Madison	3114	35756	1840016520
+Underwood-Petersville	AL	Alabama	Lauderdale	3077	35633	1840073851
+Dadeville	AL	Alabama	Tallapoosa	3062	36853	1840001397
+Huguley	AL	Alabama	Chambers	3020	36863	1840013787
+Brent	AL	Alabama	Bibb	2994	35042 35034	1840013781
+Brighton	AL	Alabama	Jefferson	2983	35020	1840013734
+Taylor	AL	Alabama	Houston	2891	36301 36305	1840017133
+Eutaw	AL	Alabama	Greene	2890	35462	1840001838
+New Hope	AL	Alabama	Madison	2875	35760	1840014646
+Bon Secour	AL	Alabama	Baldwin	2791	36511 36535	1840027557
+Centreville	AL	Alabama	Bibb	2782	35042	1840007089
+Choccolocco	AL	Alabama	Calhoun	2776	36207 36254	1840022930
+Eagle Point	AL	Alabama	Shelby	2746	35242	1840144721
+Lineville	AL	Alabama	Clay	2733	36266	1840008076
+Luverne	AL	Alabama	Crenshaw	2728	36049	1840004042
+Dora	AL	Alabama	Walker	2718	35130 35062	1840005829
+La Fayette	AL	Alabama	Chambers	2700	36862	1840008339
+Graysville	AL	Alabama	Jefferson	2700	35117 35073	1840003493
+Jemison	AL	Alabama	Chilton	2671	35085	1840014862
+Hartford	AL	Alabama	Geneva	2660	36344	1840013892
+Guin	AL	Alabama	Marion	2636	35563	1840013640
+Owens Cross Roads	AL	Alabama	Madison	2567	35763	1840016521
+Henagar	AL	Alabama	DeKalb	2559	35978	1840014659
+Remlap	AL	Alabama	Blount	2555	35133	1840041606
+Thorsby	AL	Alabama	Chilton	2552	35171	1840016920
+Sumiton	AL	Alabama	Walker	2516	35062 35148	1840015640
+Deatsville	AL	Alabama	Elmore	2514	36022	1840016964
+Trinity	AL	Alabama	Morgan	2510	35673	1840016612
+Good Hope	AL	Alabama	Cullman	2502	35057 35055 35077	1840003328
+Ashford	AL	Alabama	Houston	2476	36312	1840000737
+Ashville	AL	Alabama	St. Clair	2438	35953 35987	1840013697
+Creola	AL	Alabama	Mobile	2428	36525	1840014988
+Butler	AL	Alabama	Choctaw	2428	36904	1840015823
+York	AL	Alabama	Sumter	2423	36925	1840015778
+Brookwood	AL	Alabama	Tuscaloosa	2420	35444	1840015711
+Greensboro	AL	Alabama	Hale	2417	36744	1840006442
+Riverside	AL	Alabama	St. Clair	2409	35135 35125	1840017995
+Westover	AL	Alabama	Shelby	2404	35185 35147 35078	1840016849
+Stapleton	AL	Alabama	Baldwin	2392	36527 36578	1840027497
+Lipscomb	AL	Alabama	Jefferson	2390	35020	1840015667
+Bridgeport	AL	Alabama	Jackson	2366	35740	1840001007
+Indian Springs Village	AL	Alabama	Shelby	2341	35242 35124	1840014828
+Aliceville	AL	Alabama	Pickens	2325	35442	1840013758
+Brundidge	AL	Alabama	Pike	2309	36010	1840013848
+Abbeville	AL	Alabama	Henry	2309	36310	1840000552
+Morris	AL	Alabama	Jefferson	2273	35071 35116	1840016801
+Kinsey	AL	Alabama	Houston	2254	36303 36345	1840017127
+Carlisle-Rockledge	AL	Alabama	Etowah	2232	35956 35954	1840037805
+Clayton	AL	Alabama	Barbour	2230	36016	1840001251
+Bayou La Batre	AL	Alabama	Mobile	2215	36544 36509	1840013897
+Coaling	AL	Alabama	Tuscaloosa	2203	35453 35449	1840016840
+Cowarts	AL	Alabama	Houston	2174	36303 36321	1840017131
+Camden	AL	Alabama	Wilcox	2149	36726	1840001060
+Elberta	AL	Alabama	Baldwin	2140	36530	1840017125
+Whitesboro	AL	Alabama	Etowah	2134	35956	1840022891
+Marbury	AL	Alabama	Autauga	2126	36022 36051	1840023045
+Stevenson	AL	Alabama	Jackson	2071	35772	1840016526
+Linden	AL	Alabama	Marengo	2070	36748	1840005138
+Crossville	AL	Alabama	DeKalb	2043	35962	1840016554
+Collinsville	AL	Alabama	DeKalb	2036	35961	1840016553
+Wilsonville	AL	Alabama	Shelby	1998	35186	1840016850
+Grove Hill	AL	Alabama	Clarke	1995	36451	1840005924
+Sylvania	AL	Alabama	DeKalb	1971	35988 35968	1840016558
+Cordova	AL	Alabama	Walker	1971	35550	1840014767
+Lillian	AL	Alabama	Baldwin	1946	36549	1840025228
+Sardis City	AL	Alabama	Etowah	1941	35956	1840017967
+Malvern	AL	Alabama	Geneva	1926	36375 36301 36305	1840017137
+Reform	AL	Alabama	Pickens	1913	35481	1840018010
+Rehobeth	AL	Alabama	Houston	1896	36301	1840018195
+Selmont-West Selmont	AL	Alabama	Dallas	1894	36703 36701	1840035626
+Level Plains	AL	Alabama	Dale	1889	36330 36322	1840017083
+Gordo	AL	Alabama	Pickens	1874	35466	1840003367
+Slocomb	AL	Alabama	Geneva	1860	36375 36349	1840015884
+Blountsville	AL	Alabama	Blount	1837	35031	1840015600
+Midland City	AL	Alabama	Dale	1823	36350	1840017084
+Vernon	AL	Alabama	Lamar	1801	35592	1840005593
+Dauphin Island	AL	Alabama	Mobile	1793	36528	1840017141
+Point Clear	AL	Alabama	Baldwin	1755	36564 36532	1840013883
+Uniontown	AL	Alabama	Perry	1754	36786	1840016959
+Florala	AL	Alabama	Covington	1745	36442	1840007209
+Munford	AL	Alabama	Talladega	1743	36268	1840022952
+Fort Deposit	AL	Alabama	Lowndes	1734	36032	1840002146
+Concord	AL	Alabama	Jefferson	1698	35023	1840013094
+Vincent	AL	Alabama	Shelby	1679	35178	1840016848
+Ashland	AL	Alabama	Clay	1674	36251	1840006738
+Cedar Bluff	AL	Alabama	Cherokee	1672	35959	1840005812
+Stewartville	AL	Alabama	Coosa	1669	35151 35183	1840023022
+Grant	AL	Alabama	Marshall	1667	35747	1840016620
+Frisco City	AL	Alabama	Monroe	1656	36445	1840005003
+Harpersville	AL	Alabama	Shelby	1654	35078	1840016847
+Vance	AL	Alabama	Tuscaloosa	1646	35188 35490	1840016842
+Flomaton	AL	Alabama	Escambia	1606	36441	1840006309
+Hayden	AL	Alabama	Blount	1579	35180 35079	1840015601
+Elmore	AL	Alabama	Elmore	1573	36022 36025	1840016966
+West Blocton	AL	Alabama	Bibb	1561	35184	1840016894
+Ragland	AL	Alabama	St. Clair	1552	35131	1840017994
+Bear Creek	AL	Alabama	Marion	1549	35581 35543	1840015585
+Newton	AL	Alabama	Dale	1528	36350 36352 36360	1840017088
+Sylvan Springs	AL	Alabama	Jefferson	1521	35118	1840016803
+Steele	AL	Alabama	St. Clair	1515	35987	1840016773
+Samson	AL	Alabama	Geneva	1513	36477	1840015883
+Smoke Rise	AL	Alabama	Blount	1504	35180	1840013654
+Summerdale	AL	Alabama	Baldwin	1497	36535 36580	1840017126
+Carbon Hill	AL	Alabama	Walker	1472	35549	1840014766
+Mount Vernon	AL	Alabama	Mobile	1463	36560	1840017140
+Hackleburg	AL	Alabama	Marion	1463	35564	1840016697
+Sulligent	AL	Alabama	Lamar	1459	35586	1840015636
+Rock Creek	AL	Alabama	Jefferson	1446	35023	1840027632
+Parrish	AL	Alabama	Walker	1433	35580	1840016770
+Georgiana	AL	Alabama	Butler	1423	36033	1840003191
+Falkville	AL	Alabama	Morgan	1422	35622	1840002079
+Clio	AL	Alabama	Barbour	1415	36017	1840014926
+Webb	AL	Alabama	Houston	1395	36376	1840017134
+Woodstock	AL	Alabama	Bibb	1391	35188 35111	1840016895
+Double Springs	AL	Alabama	Winston	1361	35553	1840007127
+Altoona	AL	Alabama	Etowah	1358	35952	1840000720
+Coats Bend	AL	Alabama	Etowah	1353	35901	1840075147
+Rogersville	AL	Alabama	Lauderdale	1350	35652	1840017891
+Killen	AL	Alabama	Lauderdale	1344	35645	1840016503
+Magnolia Springs	AL	Alabama	Baldwin	1325	36535 36555	1840017124
+Camp Hill	AL	Alabama	Tallapoosa	1321	36850	1840015761
+Locust Fork	AL	Alabama	Blount	1316	35133 35097	1840016717
+Susan Moore	AL	Alabama	Blount	1311	35952 35031 35121	1840016720
+Ardmore	AL	Alabama	Limestone	1304	35739	1840015515
+Millport	AL	Alabama	Lamar	1288	35576	1840016756
+Lookout Mountain	AL	Alabama	Etowah	1287	35904	1840075152
+Egypt	AL	Alabama	Etowah	1282	35952 35956	1840022888
+New Brockton	AL	Alabama	Coffee	1282	36351	1840017091
+Blue Ridge	AL	Alabama	Elmore	1282	36093	1840013806
+Cleveland	AL	Alabama	Blount	1252	35049 35121	1840016718
+Cottonwood	AL	Alabama	Houston	1244	36320	1840017130
+Fyffe	AL	Alabama	DeKalb	1232	35971	1840004830
+Snead	AL	Alabama	Blount	1227	35952	1840017964
+Fayetteville	AL	Alabama	Talladega	1222	35151 35044	1840022953
+Ballplay	AL	Alabama	Etowah	1181	35903 36272	1840022887
+Shoal Creek	AL	Alabama	Shelby	1171	35242	1840075164
+Vandiver	AL	Alabama	Shelby	1166	35147 35176	1840022967
+Brookside	AL	Alabama	Jefferson	1157	35214 35117 35073 35036	1840015669
+Brilliant	AL	Alabama	Marion	1145	35594 35548	1840015586
+Dunnavant	AL	Alabama	Shelby	1134	35094	1840037812
+Geraldine	AL	Alabama	DeKalb	1122	35974	1840004919
+Goodwater	AL	Alabama	Coosa	1117	35072	1840007377
+Skyline	AL	Alabama	Jackson	1114	35768 35776	1840017900
+Gallant	AL	Alabama	Etowah	1111	35972	1840022889
+Eclectic	AL	Alabama	Elmore	1108	36024	1840016965
+New Market	AL	Alabama	Madison	1095	35761	1840013548
+Coosada	AL	Alabama	Elmore	1088	36020	1840016963
+Leroy	AL	Alabama	Washington	1061	36548	1840025960
+Pisgah	AL	Alabama	Jackson	1053	35765	1840016529
+Woodville	AL	Alabama	Jackson	1053	35776	1840016527
+Autaugaville	AL	Alabama	Autauga	1047	36003	1840015797
+Carrollton	AL	Alabama	Pickens	1043	35447	1840004806
+Town Creek	AL	Alabama	Lawrence	1040	35672	1840016591
+Tidmore Bend	AL	Alabama	Etowah	1007	35901	1840075168
+Coker	AL	Alabama	Tuscaloosa	1006	35452	1840016841
+Douglas	AL	Alabama	Marshall	1001	35957 35980 35964	1840016619
+Forkland	AL	Alabama	Greene	995	36740	1840002097
+Redstone Arsenal	AL	Alabama	Madison	991	35808 35812 35898	1840035873
+Powell	AL	Alabama	DeKalb	989	35986 35971	1840017914
+Ohatchee	AL	Alabama	Calhoun	988	36271	1840016782
+Berry	AL	Alabama	Fayette	983	35546	1840015661
+Baileyton	AL	Alabama	Cullman	982	35019	1840015588
+Hobson City	AL	Alabama	Calhoun	978	36203 36201	1840016781
+Hollywood	AL	Alabama	Jackson	967	35769 35752	1840016522
+Notasulga	AL	Alabama	Macon	966	36866	1840016981
+Minor	AL	Alabama	Jefferson	965	35224	1840013726
+Allgood	AL	Alabama	Blount	953	35013 35121	1840015599
+Wadley	AL	Alabama	Randolph	950	36276	1840016864
+Oak Grove	AL	Alabama	Talladega	930	35151 35150	1840016831
+Brantley	AL	Alabama	Crenshaw	927	36009	1840015844
+Lynn	AL	Alabama	Winston	908	35565 35575	1840016709
+Wedowee	AL	Alabama	Randolph	906	36278	1840005602
+Hayneville	AL	Alabama	Lowndes	900	36040	1840003774
+Oakman	AL	Alabama	Walker	898	35579	1840016769
+Cherokee	AL	Alabama	Colbert	890	35616	1840016548
+Walnut Grove	AL	Alabama	Etowah	873	35952 35990	1840016722
+South Vinemont	AL	Alabama	Cullman	865	35058 35179	1840017959
+Pine Hill	AL	Alabama	Wilcox	846	36769	1840017026
+Rockford	AL	Alabama	Coosa	845	35136	1840005393
+Section	AL	Alabama	Jackson	828	35771	1840017899
+Littleville	AL	Alabama	Colbert	821	35674 35654	1840016547
+White Plains	AL	Alabama	Calhoun	815	36207	1840022932
+Maplesville	AL	Alabama	Chilton	812	36750	1840016919
+New Union	AL	Alabama	Etowah	811	35956	1840075158
+Valley Head	AL	Alabama	DeKalb	810	35989	1840016559
+Gilbertown	AL	Alabama	Choctaw	809	36908	1840003209
+Pea Ridge	AL	Alabama	Shelby	807	35115	1840148916
+Lexington	AL	Alabama	Lauderdale	806	35648	1840016504
+Columbia	AL	Alabama	Houston	805	36319	1840017129
+Shelby	AL	Alabama	Shelby	799	35051 35143	1840022965
+Kinston	AL	Alabama	Coffee	797	36467 36453	1840017090
+Ariton	AL	Alabama	Dale	795	36311	1840004920
+Edgewater	AL	Alabama	Jefferson	793	35224	1840013093
+Mosses	AL	Alabama	Lowndes	789	36040	1840017006
+Franklin	AL	Alabama	Macon	773	36083	1840016980
+Courtland	AL	Alabama	Lawrence	769	35618	1840016590
+Rosa	AL	Alabama	Blount	763	35031 35121	1840017963
+Holly Pond	AL	Alabama	Cullman	761	35055 35083	1840016698
+Leesburg	AL	Alabama	Cherokee	756	35983	1840016636
+White Hall	AL	Alabama	Lowndes	752	36785 36752 36040	1840017009
+New Site	AL	Alabama	Tallapoosa	746	36256	1840016915
+Our Town	AL	Alabama	Tallapoosa	738	35010	1840023017
+Leighton	AL	Alabama	Colbert	734	35646	1840016546
+Eva	AL	Alabama	Morgan	733	35621	1840001840
+Sterrett	AL	Alabama	Shelby	733	35147 35178	1840022966
+Pinckard	AL	Alabama	Dale	724	36371 36350	1840017089
+Mulga	AL	Alabama	Jefferson	720	35118 35005	1840016802
+Sand Rock	AL	Alabama	Cherokee	720	35983	1840017941
+Phil Campbell	AL	Alabama	Franklin	717	35581	1840016626
+Brantleyville	AL	Alabama	Shelby	716	35114	1840022963
+Reece City	AL	Alabama	Etowah	711	35954	1840017965
+McKenzie	AL	Alabama	Butler	711	36456	1840017055
+Silverhill	AL	Alabama	Baldwin	711	36576	1840018194
+Pickensville	AL	Alabama	Pickens	706	35447	1840005373
+Chatom	AL	Alabama	Washington	702	36518	1840001112
+Belle Fontaine	AL	Alabama	Mobile	699	36582	1840023701
+Ivalee	AL	Alabama	Etowah	688	35954	1840022890
+McDonald Chapel	AL	Alabama	Jefferson	686	35224	1840013725
+Wilton	AL	Alabama	Shelby	685	35115	1840016851
+Fairview	AL	Alabama	Cullman	681	35058	1840002078
+Mignon	AL	Alabama	Talladega	681	35150	1840027518
+Somerville	AL	Alabama	Morgan	671	35670	1840004313
+Addison	AL	Alabama	Winston	665	35540	1840015589
+St. Florian	AL	Alabama	Lauderdale	636	35634	1840017892
+Pine Ridge	AL	Alabama	DeKalb	635	35968	1840016560
+Pennington	AL	Alabama	Choctaw	628	36916	1840017019
+Ider	AL	Alabama	DeKalb	626	35981 35978	1840016550
+Perdido	AL	Alabama	Baldwin	621	36562	1840027534
+West Point	AL	Alabama	Cullman	613	35057 35179	1840016704
+Louisville	AL	Alabama	Barbour	612	36048	1840003795
+Hollis Crossroads	AL	Alabama	Cleburne	607	36264 36258	1840022933
+Garden City	AL	Alabama	Cullman	598	35077 35070	1840002685
+Hackneyville	AL	Alabama	Tallapoosa	594	35072 35010	1840023016
+Gurley	AL	Alabama	Madison	580	35748	1840016519
+Epes	AL	Alabama	Sumter	579	35460	1840016949
+Babbie	AL	Alabama	Covington	575	36467 36421	1840015865
+Arley	AL	Alabama	Winston	569	35541	1840006641
+Woodland	AL	Alabama	Randolph	568	36280	1840016866
+Millry	AL	Alabama	Washington	563	36558	1840017081
+Hillsboro	AL	Alabama	Lawrence	559	35643	1840016589
+Ranburne	AL	Alabama	Cleburne	547	36273	1840017996
+Hytop	AL	Alabama	Jackson	544	35768	1840016523
+Pleasant Groves	AL	Alabama	Jackson	539	35776	1840073888
+Jacksons' Gap	AL	Alabama	Tallapoosa	537	36861	1840025222
+Berlin	AL	Alabama	Cullman	532	35058 35055	1840146895
+Grimes	AL	Alabama	Dale	529	36303 36350	1840003500
+Dodge City	AL	Alabama	Cullman	527	35057 35077	1840016700
+Trafford	AL	Alabama	Jefferson	511	35180 35172	1840016804
+Midway	AL	Alabama	Bullock	507	36053	1840017020
+West Jefferson	AL	Alabama	Jefferson	507	35130 35062	1840016805
+Hurtsboro	AL	Alabama	Russell	506	36860	1840016999
+Newville	AL	Alabama	Henry	503	36353	1840017073
+Dozier	AL	Alabama	Crenshaw	502	36028	1840017043
+River Falls	AL	Alabama	Covington	500	36474 36476 36421	1840018177
+North Courtland	AL	Alabama	Lawrence	494	35618	1840016592
+Nectar	AL	Alabama	Blount	476	35079 35049	1840016721
+Red Level	AL	Alabama	Covington	476	36474	1840018176
+Excel	AL	Alabama	Monroe	473	36460 36445 36439	1840004979
+Millerville	AL	Alabama	Clay	473	35072 36267 36251	1840022974
+St. Stephens	AL	Alabama	Washington	471	36569	1840004299
+Ray	AL	Alabama	Coosa	466	35010	1840023021
+Perdido Beach	AL	Alabama	Baldwin	464	36530	1840023131
+Reeltown	AL	Alabama	Tallapoosa	462	36078 36866	1840023018
+Nances Creek	AL	Alabama	Calhoun	459	36265 36272	1840022931
+Lisman	AL	Alabama	Choctaw	453	36912	1840017015
+Dutton	AL	Alabama	Jackson	451	35744	1840016525
+Avon	AL	Alabama	Houston	450	36312	1840015881
+Goshen	AL	Alabama	Pike	447	36035	1840003403
+Highland Lake	AL	Alabama	Blount	444	35121	1840015602
+Fulton	AL	Alabama	Clarke	437	36446 36451	1840002425
+Napier Field	AL	Alabama	Dale	430	36303	1840017085
+Rock Mills	AL	Alabama	Randolph	430	36274	1840013762
+Kennedy	AL	Alabama	Lamar	427	35574	1840016755
+Clayhatchee	AL	Alabama	Dale	427	36322	1840017086
+Fruithurst	AL	Alabama	Cleburne	426	36262	1840002170
+Black	AL	Alabama	Geneva	423	36314	1840015882
+Shiloh	AL	Alabama	DeKalb	422	35986 35971	1840017915
+Hollins	AL	Alabama	Clay	421	35072	1840022973
+Stockton	AL	Alabama	Baldwin	420	36507 36579	1840027498
+Nixburg	AL	Alabama	Coosa	410	35010 35089	1840042839
+Hammondville	AL	Alabama	DeKalb	409	35989	1840016557
+Uriah	AL	Alabama	Monroe	397	36480	1840025944
+Weogufka	AL	Alabama	Coosa	397	35151 35183	1840023023
+Glen Allen	AL	Alabama	Fayette	396	35559 35594 35554	1840005839
+Vina	AL	Alabama	Franklin	389	35593	1840016625
+Silas	AL	Alabama	Choctaw	387	36919	1840018123
+Joppa	AL	Alabama	Cullman	378	35016 35087	1840025862
+Thomaston	AL	Alabama	Marengo	377	36783	1840016998
+Gordon	AL	Alabama	Houston	356	36343	1840006413
+Castleberry	AL	Alabama	Conecuh	350	36432	1840017079
+Belk	AL	Alabama	Fayette	347	35545 35555	1840015660
+Shorter	AL	Alabama	Macon	344	36075	1840018092
+Mentone	AL	Alabama	DeKalb	342	35984	1840016552
+East Point	AL	Alabama	Cullman	339	35055	1840025861
+Hatton	AL	Alabama	Lawrence	336	35672	1840025845
+Abanda	AL	Alabama	Chambers	335	36276	1840023012
+Cuba	AL	Alabama	Sumter	327	36907	1840016947
+Elkmont	AL	Alabama	Limestone	321	35620	1840016511
+Hodges	AL	Alabama	Franklin	315	35571	1840016624
+McIntosh	AL	Alabama	Washington	315	36553	1840005189
+Twin	AL	Alabama	Marion	314	35563	1840022874
+Lockhart	AL	Alabama	Covington	313	36442 36455	1840017095
+Newbern	AL	Alabama	Hale	310	36765	1840016943
+Akron	AL	Alabama	Hale	310	35441	1840015775
+Boykin	AL	Alabama	Wilcox	305	36723	1840025922
+Banks	AL	Alabama	Pike	302	36005	1840015841
+Detroit	AL	Alabama	Lamar	300	35552	1840016757
+Waldo	AL	Alabama	Talladega	294	35160	1840016830
+Repton	AL	Alabama	Conecuh	289	36475	1840018171
+Maytown	AL	Alabama	Jefferson	287	35224 35118 35005	1840016800
+Gordonville	AL	Alabama	Lowndes	287	36040	1840017008
+Geiger	AL	Alabama	Sumter	286	35459	1840003029
+Carolina	AL	Alabama	Covington	279	36420	1840015866
+County Line	AL	Alabama	Blount	278	35172	1840016719
+Gainesville	AL	Alabama	Sumter	276	35464	1840006339
+Sanford	AL	Alabama	Covington	273	36420 36421	1840018178
+Boligee	AL	Alabama	Greene	271	35443	1840015759
+Axis	AL	Alabama	Mobile	269	36505	1840025979
+Union	AL	Alabama	Greene	267	35462	1840016909
+Heath	AL	Alabama	Covington	264	36421	1840015867
+Madrid	AL	Alabama	Houston	259	36375 36320	1840017128
+Colony	AL	Alabama	Cullman	257	35077	1840073883
+Horn Hill	AL	Alabama	Covington	251	36467	1840017093
+Waverly	AL	Alabama	Chambers	248	36879	1840016911
+Bakerhill	AL	Alabama	Barbour	245	36027	1840027556
+Daviston	AL	Alabama	Tallapoosa	245	36256	1840016913
+Vinegar Bend	AL	Alabama	Washington	241	36584	1840025964
+Anderson	AL	Alabama	Lauderdale	241	35610	1840015513
+Langston	AL	Alabama	Jackson	240	35755	1840016524
+Sweet Water	AL	Alabama	Marengo	239	36782	1840016997
+Cullomburg	AL	Alabama	Choctaw	238	36919	1840025919
+Rutledge	AL	Alabama	Crenshaw	237	36049	1840005396
+Fredonia	AL	Alabama	Chambers	232	36855 36863	1840023013
+Loachapoka	AL	Alabama	Lee	227	36832 36865	1840016969
+Edwardsville	AL	Alabama	Cleburne	225	36262 36272 36261	1840007129
+Gantt	AL	Alabama	Covington	222	36038 36421	1840002554
+Bristow Cove	AL	Alabama	Etowah	219	35956	1840037800
+Coffeeville	AL	Alabama	Clarke	216	36524	1840017049
+Sipsey	AL	Alabama	Walker	216	35584 35063 35504	1840017992
+Whatley	AL	Alabama	Clarke	215	36482	1840025933
+Macedonia	AL	Alabama	Pickens	215	35461	1840026992
+Broomtown	AL	Alabama	Cherokee	211	35973	1840022843
+Paint Rock	AL	Alabama	Jackson	208	35764 35776	1840016528
+Onycha	AL	Alabama	Covington	197	36467	1840017098
+Glenwood	AL	Alabama	Crenshaw	197	36035 36034	1840003300
+Riverview	AL	Alabama	Escambia	197	36426	1840018196
+Coffee Springs	AL	Alabama	Geneva	196	36318	1840017138
+Hanover	AL	Alabama	Coosa	195	35072 35136	1840043375
+Beaverton	AL	Alabama	Lamar	187	35544	1840015635
+Fairford	AL	Alabama	Washington	187	36553	1840025957
+Talladega Springs	AL	Alabama	Talladega	184	35151	1840016829
+Kellyton	AL	Alabama	Coosa	179	35089	1840016916
+Beatrice	AL	Alabama	Monroe	175	36425	1840015858
+Morrison Crossroads	AL	Alabama	Randolph	169	36280	1840037831
+Nauvoo	AL	Alabama	Walker	168	35578	1840016768
+Toxey	AL	Alabama	Choctaw	165	36921	1840017017
+Gaylesville	AL	Alabama	Cherokee	164	35973	1840002987
+Pine Apple	AL	Alabama	Wilcox	162	36768	1840017025
+Haleburg	AL	Alabama	Henry	157	36319	1840017072
+Ridgeville	AL	Alabama	Etowah	155	35954	1840017966
+Five Points	AL	Alabama	Chambers	155	36855	1840016910
+Chunchula	AL	Alabama	Mobile	152	36521	1840025981
+Orrville	AL	Alabama	Dallas	151	36767	1840016970
+North Johns	AL	Alabama	Jefferson	144	35006	1840016806
+Lester	AL	Alabama	Limestone	141	35647	1840016509
+Vredenburgh	AL	Alabama	Monroe	140	36425 36481	1840017067
+Cusseta	AL	Alabama	Chambers	140	36852	1840023011
+Spring Garden	AL	Alabama	Cherokee	140	36272 36275	1840022844
+Yellow Bluff	AL	Alabama	Wilcox	140	36769	1840017023
+Faunsdale	AL	Alabama	Marengo	136	36738	1840002081
+Gu-Win	AL	Alabama	Marion	134	35563 35594	1840016696
+Hobson	AL	Alabama	Washington	132	36518	1840025959
+Delta	AL	Alabama	Clay	130	36258	1840022972
+Eunola	AL	Alabama	Geneva	129	36340	1840001835
+Providence	AL	Alabama	Marengo	122	36748 36742	1840018105
+Fruitdale	AL	Alabama	Washington	121	36539	1840025958
+Hissop	AL	Alabama	Coosa	121	35136 35089	1840023019
+Bellamy	AL	Alabama	Sumter	113	35470 36901	1840025886
+Libertyville	AL	Alabama	Covington	111	36420	1840017094
+Pollard	AL	Alabama	Escambia	110	36441	1840004074
+Kansas	AL	Alabama	Walker	109	35549 35573	1840016766
+Spruce Pine	AL	Alabama	Franklin	109	35585 35581	1840025850
+Equality	AL	Alabama	Coosa	107	36026	1840041100
+Myrtlewood	AL	Alabama	Marengo	107	36763	1840016994
+Blue Springs	AL	Alabama	Barbour	106	36374 36017	1840015839
+Waterloo	AL	Alabama	Lauderdale	104	35677	1840016505
+Eldridge	AL	Alabama	Walker	93	35554	1840016767
+Mooresville	AL	Alabama	Limestone	93	35649	1840016510
+Lowndesboro	AL	Alabama	Lowndes	92	36752	1840017005
+Needham	AL	Alabama	Choctaw	89	36915	1840017018
+Panola	AL	Alabama	Sumter	86	35477	1840025887
+Ethelsville	AL	Alabama	Pickens	85	35461	1840001617
+Deer Park	AL	Alabama	Washington	83	36529	1840025956
+Goldville	AL	Alabama	Tallapoosa	79	36255 36256	1840006026
+Union Grove	AL	Alabama	Marshall	75	35175	1840016621
+Emelle	AL	Alabama	Sumter	74	35459	1840016948
+Tibbie	AL	Alabama	Washington	70	36583 36529	1840025963
+Calvert	AL	Alabama	Washington	70	36513 36560	1840025955
+Dayton	AL	Alabama	Marengo	67	36738 36748	1840016995
+Graham	AL	Alabama	Randolph	66	36263	1840022971
+Penton	AL	Alabama	Chambers	65	36862	1840023014
+Billingsley	AL	Alabama	Autauga	64	36006	1840015798
+Standing Rock	AL	Alabama	Chambers	62	36855	1840023015
+Putnam	AL	Alabama	Marengo	61	36784	1840025911
+Gulfcrest	AL	Alabama	Mobile	58	36521	1840025982
+Bon Air	AL	Alabama	Talladega	58	35150 35044 35032	1840015699
+Carlton	AL	Alabama	Clarke	57	36545	1840025932
+Movico	AL	Alabama	Mobile	47	36560	1840025983
+Petrey	AL	Alabama	Crenshaw	47	36049 36062	1840017045
+Malcolm	AL	Alabama	Washington	44	36553 36556	1840025961
+Peterman	AL	Alabama	Monroe	31	36471	1840025943
+Belgreen	AL	Alabama	Franklin	30	35653	1840005612
+Benton	AL	Alabama	Lowndes	27	36785	1840015812
+Cardiff	AL	Alabama	Jefferson	26	35073	1840015670
+Memphis	AL	Alabama	Pickens	23	35442	1840016852
+Nanafalia	AL	Alabama	Marengo	23	36782 36764	1840025910
+Natural Bridge	AL	Alabama	Winston	21	35575 35577	1840016711
+Bucks	AL	Alabama	Mobile	20	36512 36560	1840025980
+Oak Hill	AL	Alabama	Wilcox	19	36768 36766	1840017024
+McMullen	AL	Alabama	Pickens	17	35442	1840027517
+Megargel	AL	Alabama	Monroe	6	36445	1840025942
+Fitzpatrick	AL	Alabama	Bullock	0	36029	1840025920
+Sims Chapel	AL	Alabama	Washington	0	36553	1840027005
+Rockville	AL	Alabama	Clarke	0	36545	1840027002
+Catherine	AL	Alabama	Wilcox	0	36728	1840025923
+
+

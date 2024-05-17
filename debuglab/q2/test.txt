@@ -1,0 +1,3 @@
+Source:https://simplemaps.com/data/us-cities
+City	State Abbreviation	State	County	Population	Zip Codes (space separated)	ID
+New York 	NY	New Yor

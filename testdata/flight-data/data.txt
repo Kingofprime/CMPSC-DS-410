@@ -1,0 +1,35 @@
+DEST_COUNTRY_NAME,ORIGIN_COUNTRY_NAME,count
+United States,Romania,1
+United States,Ireland,264
+United States,India,69
+Egypt,United States,24
+Equatorial Guinea,United States,1
+United States,Singapore,25
+United States,Grenada,54
+Costa Rica,United States,477
+Senegal,United States,29
+United States,Marshall Islands,44
+Guyana,United States,17
+United States,Sint Maarten,53
+Malta,United States,1
+Bolivia,United States,46
+Anguilla,United States,21
+Turks and Caicos Islands,United States,136
+United States,Afghanistan,2
+Saint Vincent and the Grenadines,United States,1
+Italy,United States,390
+United States,Russia,156
+United States,Federated States of Micronesia,48
+Pakistan,United States,9
+United States,Netherlands,570
+Iceland,United States,118
+Marshall Islands,United States,77
+Luxembourg,United States,91
+Honduras,United States,391
+The Bahamas,United States,903
+El Salvador,United States,519
+United States,Senegal,46
+Samoa,United States,28
+United States,Angola,18
+Kazakhstan,United States,3
+Switzerland,United States,315

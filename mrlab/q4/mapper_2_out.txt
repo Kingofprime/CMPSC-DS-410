@@ -1,0 +1,7 @@
+"eaters",1
+"ate",1
+"eat",1
+"water",1
+"ice",1
+"aren't",1
+"Supercalifragilisticexpialidocious",1

@@ -1,0 +1,19 @@
+ITIN_ID,YEAR,QUARTER,ORIGIN,ORIGIN_STATE_NM,DEST,DEST_STATE_NM,PASSENGERS
+2021118,2021,1,CAE,South Carolina,FLL,Florida,1.00
+2021119,2021,1,CAE,South Carolina,FLL,Florida,2.00
+2021120,2021,1,CAE,South Carolina,FLL,Florida,6.00
+2021121,2021,1,CAE,South Carolina,FLL,Florida,3.00
+2021122,2021,1,CAE,South Carolina,FLL,Florida,1.00
+2021123,2021,1,CAE,South Carolina,FLL,Florida,3.00
+2021124,2021,1,CAE,South Carolina,FLL,Florida,1.00
+2021125,2021,1,CAE,South Carolina,FLL,Florida,5.00
+2021126,2021,1,CAE,South Carolina,FLL,Florida,2.00
+2021126,2021,1,FLL,Florida,CAE,South Carolina,2.00
+2021127,2021,1,CAE,South Carolina,FLL,Florida,1.00
+2021127,2021,1,FLL,Florida,CAE,South Carolina,1.00
+2021128,2021,1,CAE,South Carolina,FLL,Florida,1.00
+2021128,2021,1,FLL,Florida,CAE,South Carolina,1.00
+2021129,2021,1,CAE,South Carolina,FLL,Florida,1.00
+2021129,2021,1,FLL,Florida,CAE,South Carolina,1.00
+2021130,2021,1,CAE,South Carolina,FLL,Florida,1.00
+2021130,2021,1,FLL,Florida,CAE,South Carolina,1.00
